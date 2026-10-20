@@ -18,8 +18,8 @@ A simple and efficient **Telegram bot** using `python-telegram-bot` for forwardi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   https://github.com/seenByYx/Talk-with-admin-bot---Telegram.git
+   cd Talk-with-admin-bot
    ```
 2. Install dependencies:
    ```bash

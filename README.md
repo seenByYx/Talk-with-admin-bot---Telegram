@@ -1,4 +1,4 @@
-```markdown
+
 # Telegram Forwarding & Broadcast Bot
 
 A simple and efficient **Telegram bot** using `python-telegram-bot` for forwarding user messages to an admin, replying privately, and broadcasting announcements to all users.
@@ -14,7 +14,8 @@ A simple and efficient **Telegram bot** using `python-telegram-bot` for forwardi
 ## Usage
 
 1. Clone the repository and navigate into the directory:
-   ```bash
+
+```bash
    git clone [https://github.com/seenByYx/Talk-with-admin-bot---Telegram.git](https://github.com/seenByYx/Talk-with-admin-bot---Telegram.git)
    cd Talk-with-admin-bot---Telegram
 
